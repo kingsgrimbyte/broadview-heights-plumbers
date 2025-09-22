@@ -1,0 +1,29 @@
+{
+  "metaTitle": "Emergency Plumber in [location]",
+  "metaDescription": "Trusted local plumbers delivering expert repairs, installations, and 24/7 emergency service with community-focused care and honest pricing Call [phone]",
+  "bannerQuote": "",
+  "bannerImage": "https://ik.imagekit.io/z6skgnupx/broadviewheightsohplumbers_com/Plumbing_Services_about_bannerImage_Ru71YirQR.jpg",
+  "h1Banner": "Emergency Plumber in [location]",
+  "p1Banner": "Trusted local plumbers delivering expert repairs, installations, and 24/7 emergency service with community-focused care and honest pricing Call [phone]",
+  "p2": "For more than two decades Broadview Heights Plumbers has grown from a one-man truck into a trusted local team by putting customers first. Our mission is simple: honest estimates, reliable workmanship, and fast response when you need us most. We commit to protecting your home, explaining options in plain language, and standing behind every repair or installation with workmanship guarantees.",
+  "h2Image": "https://ik.imagekit.io/z6skgnupx/broadviewheightsohplumbers_com/Plumbing_Services_about_h2Image_h16UScd4N.jpg",
+  "missionSection": [
+    {
+      "title": "Our Mission",
+      "description": "To deliver fast, dependable plumbing repairs and installations with transparency and respect in [location]. Our licensed plumbers and certified technicians bring decades of combined experience to every job—from leaky faucets and clogged drains to water heater replacements and sewer line repair."
+    },
+    {
+      "title": "Our Vision",
+      "description": "We aim to be the go-to neighborhood plumbing company by combining old-school craftsmanship with modern diagnostics and eco-conscious solutions. We invest in ongoing training and the right tools so our team can solve problems quickly and minimize disruption to your home or business."
+    },
+    {
+      "title": "Our Values",
+      "description": "Experience, professionalism, and community are at the core of what we do. We show up on time, give clear pricing, protect your property, and treat every customer like a neighbor—because we are proud to serve our community and earn your long-term trust."
+    }
+  ],
+  "areaweserveSection": {
+    "description": "We proudly provide plumbing services in [location], serving homes, apartments, retailers, and contractors with repairs, maintenance, and emergency response. Call us and we'll get a licensed technician to you quickly.",
+    "linkText": "Check our Plumbing Service locations here.",
+    "link": "/locations"
+  }
+}
